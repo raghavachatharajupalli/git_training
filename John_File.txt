@@ -1,3 +1,4 @@
 Amber editing his changes without knowledge of John changes
 commit may fail during merge
 Changes done by John
+Amber added her changes at end
