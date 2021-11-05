@@ -5,3 +5,10 @@ Edit from master before branch updates
 Edit from branch
 
 edit after staging
+
+added another line
+
+added local change
+
+
+added changes to branch
